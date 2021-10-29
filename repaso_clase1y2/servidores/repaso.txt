@@ -1,0 +1,4 @@
+ servidor es un equipo diseñado para procesar solicitudes y entregar datos a otros ordenadores a los que podríamos llamar clientes. Esto se puede hacer a través de una red local o a través de Internet.
+
+
+Un servidor normalmente se configura con capacidad de procesamiento, memoria y espacio de almacenamiento adicional para poder gestionar bien la carga que supone dar servicio a los clientes. 
